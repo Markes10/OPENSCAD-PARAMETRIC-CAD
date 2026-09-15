@@ -1,0 +1,8 @@
+{
+  "id": "29",
+  "name": "29-openscad-parametric-cad",
+  "title": "Generative Parametric Manufacturing Design Engine",
+  "language": "OpenSCAD",
+  "domain": "Parametric CAD & Computational Manufacturing Design",
+  "description": "Generative OpenSCAD modeling scripts for parametric planetary gearboxes and precision enclosures with automatic involute gear profile calculation and CNC manufacturing tolerances."
+}
