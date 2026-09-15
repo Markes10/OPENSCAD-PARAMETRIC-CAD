@@ -1,7 +1,7 @@
-# 29 - Generative Parametric Planetary Gearbox (OpenSCAD)
+# Generative Parametric Planetary Gearbox (OpenSCAD)
 
 ## Executive Overview
-A generative parametric CAD design system written in **OpenSCAD**. It mathematically derives **involute gear tooth profiles**, computes pitch diameters and gear ratios, and models an entire 3D printable planetary gearbox assembly with backlash tolerances for high-torque robotic actuators.
+A generative parametric CAD design system written in **OpenSCAD**. It mathematically derives **involute gear tooth profiles**, computes pitch diameters and gear ratios, and models an entire 3D-printable planetary gearbox assembly with backlash tolerances for high-torque robotic actuators.
 
 ## Geometric Generation Pipeline
 
